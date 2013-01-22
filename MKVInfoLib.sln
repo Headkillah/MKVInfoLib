@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Executable", "LibTest\Executable.csproj", "{FC8E9361-2A3B-4368-8FD5-02C1FE50C795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKVInfo", "Library\MKVInfo.csproj", "{72903AE2-848E-410A-9268-98EB2E0224F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8E9361-2A3B-4368-8FD5-02C1FE50C795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8E9361-2A3B-4368-8FD5-02C1FE50C795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8E9361-2A3B-4368-8FD5-02C1FE50C795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8E9361-2A3B-4368-8FD5-02C1FE50C795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72903AE2-848E-410A-9268-98EB2E0224F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72903AE2-848E-410A-9268-98EB2E0224F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72903AE2-848E-410A-9268-98EB2E0224F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72903AE2-848E-410A-9268-98EB2E0224F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
